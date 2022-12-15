@@ -1,4 +1,4 @@
-- 👋 Olá, Sou @jramoss
+- 👋 Olá, Sou Jonas
 - 🌱 Atualmente estou aprendendo um pouco de tudo
 - 💞️ Procuro colaborar
 - 📫 Como me contactar jonas.ramos@gmail.com
