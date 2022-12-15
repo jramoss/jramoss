@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jramoss
-- 🌱 I’m currently learning a little bit of everything
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jonas.ramos@gmail.com
+- 👋 Olá, Sou @jramoss
+- 🌱 Atualmente estou aprendendo um pouco de tudo
+- 💞️ Procuro colaborar
+- 📫 Como me contactar jonas.ramos@gmail.com
 
 <!---
 jramoss/jramoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
