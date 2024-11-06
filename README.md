@@ -4,16 +4,17 @@ Sou administrador de redes com ampla experiência em segurança, automação e o
 ---
 
 ### 💼 Habilidades Técnicas
-- **Administração de Redes**: Experiência em configuração e gestão de redes complexas, incluindo roteadores, switches, VLANs, e segmentação de redes. Habilidade em implementar políticas de controle de tráfego e segurança para garantir desempenho e confiabilidade em ambientes corporativos.
+- **Administração de Redes**: Experiência em configuração e gestão de redes complexas, incluindo roteadores, switches, VLANs e segmentação de redes. Habilidade em implementar políticas de controle de tráfego e segurança para garantir desempenho e confiabilidade em ambientes corporativos.
 - **Segurança da Informação**: Conhecimento em práticas avançadas de segurança para proteção de dados e mitigação de riscos. Experiência em monitoramento de ameaças, implementação de firewalls, sistemas de detecção e prevenção de intrusões (IDS/IPS) e resposta a incidentes.
+- **Telefonia IP**: Experiência em implementação e administração de sistemas de telefonia IP, incluindo configuração de PABX IP, protocolos como SIP e RTP, e integração com redes de dados para comunicação de voz. Gestão de chamadas de voz em redes corporativas e análise de qualidade de serviço.
+- **Sistemas de Chamados**: Configuração e administração de sistemas de gerenciamento de chamados (help desk), incluindo integração com plataformas de ITIL, automação de tickets, e relatórios para gestão de incidentes, problemas e solicitações de serviço.
 - **Automação e Scripting**: Proficiente em automação de tarefas com scripts em Python e Bash, aplicando automação para provisionamento de ambientes, backup de dados e monitoramento de sistemas, além da criação de pipelines para otimizar processos.
 - **Monitoramento e Gerenciamento de Desempenho**: Experiência no uso de ferramentas como Grafana, Prometheus e Zabbix para monitoramento em tempo real e análise de desempenho. Conhecimento em ajuste proativo para otimização de sistemas, identificação de gargalos e manutenção preventiva.
 
 ---
 
 ### 🚀 Projetos em Andamento
-- **Sistema de Gerenciamento de Permissões**: Desenvolvimento de uma solução robusta para controle de permissões com granularidade por objetos e categorias, aplicável a múltiplos cenários corporativos.
-- **Simulação de Dados para Ambientes de Teste**: Criação de scripts para geração de usuários, permissões e postagens, proporcionando ambientes de teste realistas para análise e validação de sistemas.
+- **Sistema de Gerenciamento de Permissões**: Desenvolvimento de uma solução para controle de permissões com granularidade por objetos e categorias, aplicável a múltiplos cenários corporativos.
 
 ---
 
