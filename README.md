@@ -13,11 +13,6 @@ Sou administrador de redes com ampla experiência em segurança, automação e o
 
 ---
 
-### 🚀 Projetos em Andamento
-- **Sistema de Gerenciamento de Permissões**: Desenvolvimento de uma solução para controle de permissões com granularidade por objetos e categorias, aplicável a múltiplos cenários corporativos.
-
----
-
 ### 🌐 Em Desenvolvimento Contínuo
 - **Orquestração com Kubernetes**: Explorando práticas de implantação de containers, escalabilidade e segurança em clusters para aplicações complexas.
 - **Pipelines CI/CD e Automação**: Focado em aprimorar processos de integração e entrega contínua para maior eficiência e confiabilidade no desenvolvimento.
